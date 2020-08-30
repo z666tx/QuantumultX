@@ -36,9 +36,9 @@
 
   4.集成了Nobyda库中的去广告类js<br>
 
-  5.集成大量task，默认皆为禁用，请根据需求启用，启用需额外在重写中启用JS-GetCookie，并按脚本中说明获取cookie方可用<br>
+  5.集成大量task，默认皆为禁用，请根据需求启用，启用需额外在重写中启用JS_GetCookie，并按脚本中说明获取cookie方可用<br>
 
-  6.如果你购买Quantumult X还不足30天，无法一键更新，在启用Get-Cookie时，请搜索并单独缓存你需要的获取cookie脚本<br>
+  6.如果你购买Quantumult X还不足30天，无法一键更新，在启用JS_GetCookie时，请搜索并单独缓存你需要的获取cookie脚本<br>
 
   7.默认已解锁Tiktok，如想去YouTube广告，请在重写中启用YouTube去广告<br>
 
